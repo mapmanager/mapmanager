@@ -4,7 +4,7 @@ Map Manager is software to annotate and analyze image volume time-series.
 
 # Documentation
 
-For user documentation please see [mapmanager.net][https://mapmanager.net].
+For user documentation please see [mapmanager.net](https://mapmanager.net).
 
 # Download
 
