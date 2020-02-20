@@ -21,9 +21,9 @@ Li Y, Ding R, Wang F, Guo C, Liu A, Wei L, Yuan S, Chen F, Hou S, Ma Z, Zhang Y,
 Tan HL, Roth RH, Graves AR, Cudmore RH, Huganir RL (2020, in press) Lamina-specific AMPA receptor dynamics
 following visual deprivation in vivo. eLife.
 
-Roth RH, Cudmore RH, Tan HL, Hong I, Zhang Y, Huganir RL (2020) Cortical Synaptic AMPA Receptor Plasticity During Motor Learning. Neuron. [[DOI]](10.1016/j.neuron.2019.12.005) [[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/31901303).
+Roth RH, Cudmore RH, Tan HL, Hong I, Zhang Y, Huganir RL (2020) Cortical Synaptic AMPA Receptor Plasticity During Motor Learning. Neuron. [[DOI]](https://doi.org/10.1016/j.neuron.2019.12.005) [[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/31901303).
 
-Ye Zengyou, Cudmore RH, Linden DJ (2019) Estrogen-Dependent Functional Spine Dynamics in Neocortical Pyramidal Neurons of the Mouse. The Journal of Neuroscience, 39(25):4874-4888. [[DOI]](10.1523/JNEUROSCI.2772-18.2019) [[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/30992373).
+Ye Zengyou, Cudmore RH, Linden DJ (2019) Estrogen-Dependent Functional Spine Dynamics in Neocortical Pyramidal Neurons of the Mouse. The Journal of Neuroscience, 39(25):4874-4888. [[DOI]](https://doi.org/10.1523/JNEUROSCI.2772-18.2019) [[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/30992373).
 
 Zhang Y*, Cudmore RH*, Lin D, Linden DJ, Huganir RL (2015) Visualization of NMDA receptor-dependent AMPA receptor synaptic plasticity in vivo. Nature Neuroscience, 18(3):402-7. [[DOI]](https://www.nature.com/articles/nn.3936) [[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/25643295).
 
